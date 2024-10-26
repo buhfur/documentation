@@ -1,5 +1,6 @@
 title: My Hacker Theme
 description: A hacker-inspired Jekyll theme with Matrix-style animations.
-baseurl: "/documentation" # Leave blank for hosting on GitHub Pages
-url: "https://ryanm.dev"
+baseurl: "" # Leave blank for hosting on GitHub Pages
+  #url: "https://ryanm.dev"
+url: "https://localhost:4000"
 markdown: kramdown
