@@ -3,4 +3,3 @@ description: A hacker-inspired Jekyll theme with Matrix-style animations.
 baseurl: "" # Leave blank for hosting on GitHub Pages
 url: "https://yourusername.github.io"
 markdown: kramdown
-theme: hacker
