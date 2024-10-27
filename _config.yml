@@ -22,12 +22,12 @@ title: My documentation
 email: ryanmcvicker@protonmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Here, you'll find a collection of resources that I reference and update as I learn new things or work on hobby projects.
-baseurl: "/docs" # the subpath of your site, e.g. /blog
+baseurl: "/documentation" # the subpath of your site, e.g. /blog
 url: "https://ryanm.dev" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  buhfur
 
 # Build settings
-theme: readthewiki
+remote_theme: pmarsceill/just-the-docs
 plugins:
   - jekyll-feed
 
